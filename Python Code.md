@@ -1,5 +1,5 @@
 ```python
-#Importing Requierd Libraries
+# Importing Requierd Libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 #plt.style.use

@@ -5,13 +5,13 @@ This project was part of the final project for "Programming for Data Analytics: 
 Data is obtained from [kaggle](https://www.kaggle.com/imakash3011/customer-personality-analysis). The dataset is small containing 29 columns and 2.2k rows in a single csv file. 
 
 * ***The presented problem:***
-There is a lack of understanding on consumer habits which is crucial as their expedited growth has started to slow down. 
-As the business had been growing a lot, they are hoping to figure out their consumer groups and the habits of these groups to best create better marketing campaigns targeted towards each group. 
+    - There is a lack of understanding on consumer habits which is crucial as their expedited growth has started to slow down. 
+    - As the business had been growing a lot, they are hoping to figure out their consumer groups and the habits of these groups to best create better marketing campaigns targeted towards each group. 
 
 * ***The goals:*** 
-    See influential variables that determine habits of consumers
-    Create consumer groups based on their shared habits 
-    See similarities between these groups
+    - See influential variables that determine habits of consumers
+    - Create consumer groups based on their shared habits 
+    - See similarities between these groups
 
 ### Instructions
 The python [code](https://github.com/Samantha-Britschgi/Customer-Segmentaion/blob/dcd9b8d4241ef441d80f0c0abdf940da95557b18/EDA%20&%20Customer%20Segmentation.ipynb) was written inside of Jupyter Notebooks, but any IDE editor should work to run the code.
